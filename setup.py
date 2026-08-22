@@ -18,7 +18,7 @@ URL = 'https://github.com/wondertrader/wtpy'
 EMAIL = 'silencesword@foxmail.com'
 AUTHOR = 'Wesley Liu'
 REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '0.9.9.3'
+VERSION = '0.9.9.3+qrant.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
